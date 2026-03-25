@@ -25,7 +25,10 @@ i to learn how to use css to style your websites
    Run `npm install` then `npm start`
 
 ## Lessons Learned
-I learned how to style using flexbox and other styling methods
+I learned how to style using flexbox and other styling methods like:
+• Typography system with Google Fonts
+• Flexbox navigation and layout
+• CSS Grid photo gallery
 
 ## Challenges Faced
 I encountered some challenges like styling and the type of style fails to appear on the main
