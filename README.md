@@ -35,4 +35,4 @@ webpage or it appears wrongly. I remained consistent and overcomed them
 ![Screenshot description](path/to/screenshot.png)
 
 ## Live Demo (if deployed)
-[View Live Demo]
+[View Live Demo] (https://markchege10-ux.github.io/css-mastery-on-webpage/)
